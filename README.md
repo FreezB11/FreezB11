@@ -7,12 +7,12 @@
 
 - 🔭 I’m currently working on **Ariel_X**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
+<!-- <h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p> -->
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=freezb11&show_icons=true&locale=en&layout=compact" alt="freezb11" /></p>
 <br>
