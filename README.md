@@ -2,8 +2,8 @@
 
 ### An experienced C developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=FreezB11&label=Profile views&color=0e75b6&style=flat" alt="FreezB11" /> </p>
-
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=FreezB11&label=Profile views&color=0e75b6&style=flat" alt="FreezB11" /> </p> -->
+![Profile views](https://komarev.com/ghpvc/?username=FreezB11)
 - 🔭 I'm currently working on **OrcaDB
 thread_scheduler**
 
