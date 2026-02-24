@@ -10,7 +10,7 @@
 [CodeHive](https://github.com/FreezB11/CodeHive)\
 [PsyDuck](https://github.com/FreezB11/PsyDuck)\
 [thread_scheduler](https://github.com/FreezB11/thread_scheduler)\
-[c_http](https://github.com/FreezB11/c_http)\
+[c_http](https://github.com/FreezB11/c_http)
 
 
 - 🌱 I'm currently learning **Systems Engineering**
