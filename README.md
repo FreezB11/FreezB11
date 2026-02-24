@@ -1,6 +1,6 @@
 # Hi 👋, I'm Yash
 
-### An experienced C developer
+### An C/C++/Go/Python developer
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=FreezB11&label=Profile views&color=0e75b6&style=flat" alt="FreezB11" /> </p> -->
 ![Profile views](https://komarev.com/ghpvc/?username=FreezB11)
