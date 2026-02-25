@@ -4,7 +4,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=FreezB11&label=Profile views&color=0e75b6&style=flat" alt="FreezB11" /> </p> -->
 ![Profile views](https://komarev.com/ghpvc/?username=FreezB11)
-- 🔭 I'm currently working on/Projects 
+- 🔭 I'm currently working on/Projects\
 [OrcaDB](https://github.com/FreezB11/OrcaDB)\
 [lpacaMQ](https://github.com/FreezB11/lpacaMQ)\
 [CodeHive](https://github.com/FreezB11/CodeHive)\
