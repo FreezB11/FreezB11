@@ -14,7 +14,7 @@
 [MM8](https://github.com/FreezB11/MM8)
 
 
-- 🌱 I'm currently learning **Systems Engineering**
+- 🌱 I'm currently learning **Systems Engineering** && **robotics**
 
 - 👯 I'm looking to collaborate on **open source projects**
 
