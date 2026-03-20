@@ -11,7 +11,9 @@
 [PsyDuck](https://github.com/FreezB11/PsyDuck)\
 [thread_scheduler](https://github.com/FreezB11/thread_scheduler)\
 [c_http](https://github.com/FreezB11/c_http)\
-[MM8](https://github.com/FreezB11/MM8)
+[MM8](https://github.com/FreezB11/MM8)\
+[MM8](https://github.com/FreezB11/Otter)\
+[MM8](https://github.com/FreezB11/pIFC)
 
 
 - 🌱 I'm currently learning **Systems Engineering** && **robotics**
